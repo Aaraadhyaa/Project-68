@@ -1,0 +1,81 @@
+body{
+   background: rgb(0,0,0);
+background: linear-gradient(0deg, rgba(0,0,0,1) 41%, rgba(253,54,45,1) 91%); 
+}
+#victors_club{
+    text-align: center;
+    }
+#maestros_club{
+    text-align: center;
+    }
+#elites_club{
+    text-align: center;
+    }
+#leaders_club{
+    text-align: center;
+    }
+#supremes_club{
+    text-align: center;
+    }
+#legends_club{
+    text-align: center;
+    }
+li{
+    display: inline;
+    font-family: fantasy;
+    font-size:50px;
+    text-decoration: inline;
+    font-family: fantasy;
+    color: darksalmon;
+    text-align: center;
+}
+
+    
+
+.profile img-circle{
+    height:50px;
+    width:50px;
+    text-align: center;
+    border-width:medium;
+    border-color: black;
+}
+#div1{
+    text-align: center;
+}
+h1 , div1{
+    font-size: 50px;
+    font-family:fantasy;
+}
+p , div1{
+    font-size: 40px;
+    font-family:inherit;
+    color:aliceblue;
+}
+h3, victors_club, maestros_club, elites_club, leaders_club, supremes_clubs, legends_club{
+    color: ghostwhite;
+    font-size: 30px;
+    font-family:inherit;
+}
+h2, div0{
+    font-size: 40px;
+    font-family:fantasy;
+    color: black;
+    text-align: center;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: :right;
+    top:10px;
+    right:30px;
+    cursor: pointer;
+    color: black;
+    text-align: center;
+    z-index: 10;
+}
+marquee{
+    color:azure;
+}
+iframe{
+    text-align: center;
+}
